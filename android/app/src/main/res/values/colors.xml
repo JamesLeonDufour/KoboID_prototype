@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2094F3</color>
+    <color name="colorPrimaryDark">#005A9E</color>
+    <color name="colorAccent">#53C5D0</color>
+    <color name="mainBackground">#F2F5FC</color>
+    <color name="mainBackgroundDeep">#E6F3FF</color>
+    <color name="backgroundHighlight">#F1F8FE</color>
+    <color name="surfaceCard">#FFFFFF</color>
+    <color name="surfaceMuted">#F1F8FE</color>
+    <color name="surfaceStrong">#003870</color>
+    <color name="textPrimary">#333847</color>
+    <color name="textSecondary">#565E76</color>
+    <color name="textInverse">#FFFFFF</color>
+    <color name="strokeSoft">#CFE1F3</color>
+    <color name="heroTop">#005A9E</color>
+    <color name="heroBottom">#2094F3</color>
+    <color name="tutorialTint">#E6F3FF</color>
+    <color name="chipFill">#D3F0F3</color>
+    <color name="accentWash">#E6FDFF</color>
+    <color name="cameraPanel">#CC003870</color>
+    <color name="cameraStroke">#4DFFFFFF</color>
+    <color name="frameReady">#53C5D0</color>
+    <color name="frameIdle">#FFFFFF</color>
+</resources>

@@ -1,0 +1,10 @@
+ext {
+    minSdk = 24
+    compileSdk = 35
+    targetSdk = 35
+    androidxAppCompatVersion = '1.7.1'
+    androidxConstraintLayoutVersion = '2.2.1'
+    cameraXVersion = '1.4.1'
+    kotlinVersion = '2.2.10'
+    coroutinesVersion = '1.9.0'
+}

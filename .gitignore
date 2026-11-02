@@ -1,0 +1,45 @@
+# Dependencies
+node_modules/
+
+# Build output
+www/
+dist/
+coverage/
+
+# Angular cache
+.angular/
+
+# Environment files
+.env
+.env.*
+
+# Capacitor / Android local state
+android/.gradle/
+android/.kotlin/
+android/.idea/
+android/local.properties
+android/gradle/gradle-daemon-jvm.properties
+
+# Android generated builds
+android/build/
+android/app/build/
+
+# Android packaged artifacts
+*.apk
+*.aab
+
+# Signing secrets
+*.jks
+*.keystore
+keystore.properties
+.keystore_pass.tmp
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS / tooling
+*.log
+.DS_Store
+Thumbs.db
